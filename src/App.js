@@ -1,6 +1,9 @@
 
 import './App.css';
+import Home from './Component/Home'
+
 import Header from './Component/Header'
+
 
 function App() {
   return (
@@ -8,6 +11,9 @@ function App() {
 
     <Header/>
     
+<Home/>
+
+
     </div>
   );
 }

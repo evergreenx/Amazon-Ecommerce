@@ -1,0 +1,30 @@
+.header{
+    display:flex;
+    align-items: center;
+    height: 68px;
+    background-color:#131921;
+    position: stickly;
+    top:0;
+    z-index:100;
+  
+    /* justify-content: space-around; */
+    color:#fff;
+  }
+  
+  .header__logo{
+  
+    width:100px;
+    margin:0 20px;
+  
+  }
+
+  .search__icon{
+
+    background-color:#cd9042;
+    padding:5px;
+  }
+
+  .header__nav{
+      display:flex;
+      
+  }

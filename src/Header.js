@@ -1,3 +1,5 @@
+ /* eslint-disable */
+
 import React from "react";
 import "./Header.css";
 import SearchIcon from "@material-ui/icons/Search";
@@ -21,6 +23,7 @@ function Header() {
         <img
           className="header__logo"
           src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
+          alt="logo"
         />
       </Link>
 
